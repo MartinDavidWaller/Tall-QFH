@@ -7,6 +7,7 @@ The idea being to add strength and ease build as the holes in the collars can be
 
 The collars are 3D printed and were designed using OpenSCAD - https://openscad.org/
 
-<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/master/Pictures/TopOpenSCANView.png?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/TopOpenSCANView.png?sanitize=true&raw=true" />
 
-<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/master/Pictures/P5.jpg?sanitize=true&raw=true" />
+
+<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/P5.jpg?sanitize=true&raw=true" />
