@@ -11,10 +11,16 @@ The top collar slips over the 1 1/4" tuple, has ports for four 8mm copper pipes,
 
 <img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/TopOpenSCADView.png?sanitize=true&raw=true" />
 
-The connections block slides into the tube and holds the ends of the four copper tubes. This stop any unnecessary contact
+The connections block slides into the tube and holds the ends of the four copper tubes. This stops any unnecessary contact
 between the tubes and has 3mm holes to accept self tapping screws.
 
 <img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/ConnectionsOpenSCADView.png?sanitize=true&raw=true" />
+
+When inserted this liiks like:
+
+<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/P6.jpg?sanitize=true&raw=true" />
+
+At the bottom are two single collars, in each case the copper pipe passes straight through the collar and the 1 1/4" tube.
 
 <img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/SingleOpenSCADView.png?sanitize=true&raw=true" />
 
