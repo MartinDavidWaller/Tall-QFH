@@ -2,7 +2,7 @@
 
 This details my build of the Tall QFH antenna found here - http://metsat.gogan.org/ant_qha.htm. 
 
-<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/P7.jpg?sanitize=true&raw=true" />
+<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/P7.jpg?sanitize=true&raw=true" width="200px"/>
 
 I decided to add collars around the 1 1/4" tube where the 8mm copper pipe passes through.
 The idea being to add strength and ease build as the holes in the collars can be used to direct drill bits.
