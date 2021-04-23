@@ -21,13 +21,7 @@ module outerBody()
             rotate([0,90,i * 90])
                 translate([-10,0,0])
                     cylinder(r=supportPipeHolderDiameter / 2, h=45, $fn=tubeQuality);
-        
-        // Four wire supports around the side
-        
-        //for(i = [0 : 3])
-            //rotate([0,90,i * 90])
-                //translate([-30,0,0])
-                    //cylinder(r=5, h=35, $fn=tubeQuality);        
+              
     }
 }
 
@@ -49,12 +43,6 @@ module main()
                 translate([-10,0,20])
                     cylinder(r=supportPipeDiameter / 2, h=46, $fn=tubeQuality);
        
-        // Four wire holes around the side
-        
-        //for(i = [0 : 3])
-            //rotate([0,90,i * 90])
-                //translate([-31,0,0])
-                    //cylinder(r=1.5, h=46, $fn=tubeQuality);
         
         // One self tapping hole for the main pipe
         
@@ -62,12 +50,6 @@ module main()
             translate([-10,0,0])
                 cylinder(r=selfTapperDiameter / 2, h=45, $fn=tubeQuality);
         
-        // Four self tapping holes
-        
-       // for(i = [0 : 3])
-          //rotate([90,0,i * 90])
-                //translate([32,15,-20])
-                    //cylinder(r=selfTapperDiameter / 2, h=45, $fn=tubeQuality);
         
         // Finger marks at top
         
@@ -84,8 +66,6 @@ module main()
 
 main();
 
- 
-//lockingScrew();
 
 
 

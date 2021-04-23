@@ -9,7 +9,7 @@ The idea being to add strength and ease build as the holes in the collars can be
 
 The collars are 3D printed and were designed using OpenSCAD - https://openscad.org/
 
-The top collar slips over the 1 1/4" tuple, has ports for four 8mm copper pipes, and one hole for a 3mm self tapping screw.
+The top collar slips over the 1 1/4" tube, has ports for four 8mm copper pipes, and one hole for a 3mm self tapping screw.
 
 <img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/TopOpenSCADView.png?sanitize=true&raw=true" />
 
@@ -25,5 +25,12 @@ When inserted this looks like:
 At the bottom are two single collars, in each case the copper pipe passes straight through the collar and the 1 1/4" tube.
 
 <img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/SingleOpenSCADView.png?sanitize=true&raw=true" />
+
+To aid alignment around the 1 1/4" tube there is also a "Hole Pattern". It has holes every 45 degrees and can be used to ensure that
+the collars are at the correct angle.
+
+<img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/HolePatternOpenSCADView.png?sanitize=true&raw=true" />
+
+The final build looks like:
 
 <img src="https://github.com/MartinDavidWaller/Tall-QFH/blob/main/Pictures/P5.jpg?sanitize=true&raw=true" />
